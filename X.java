@@ -5,7 +5,7 @@ public class X()
     int a =10;
     int c = 20;
     int b = c-a;
-<<<<<<< Updated upstream
+
 asdsad
 System.out.println(b);
 
@@ -16,11 +16,8 @@ void m3()
     System.out.println("asd");
 }
 
-=======
 kjxcvjcxbvxczkjvjzxnvjnzxvncvxz
     System.out.println(b);
     }
 
-
->>>>>>> Stashed changes
 }
