@@ -12,10 +12,21 @@ public class A{
         int c1=a1*b1;
         System.out.println(c1);
     }
+    public void sub()
+    {
+        int a =70;
+        int b = 100;
+        System.out.println(a+b);
+
+    }
     public static void main(String args[])
     {
         A a=new A();
         a.add();
+
         a.mul();
+
+        a.sub();
+
     }
 }
